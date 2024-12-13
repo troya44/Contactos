@@ -1,0 +1,6 @@
+Esto es un proyecto en el que combioanmos php con MySql y demás lenguajes, en el cual, inicialmente nos registraremosen el programa poniendo nuestro telefono, contraseña y una foto de avatar la cual nos hará más estético el programa. Una vez registrados, tendremos que hacer el login que es meter el telefono y el password.
+Una ves hecho esto nos redigirá al index en el cual tendremos los contactosque haya creado ese usuario y con la opcion de crear más contactos.
+Tambien tenemos la opción de editar el nombre del contacto y poner el que queramos.
+Si pulsamos en el nombre del contacto se nos abrirá un dialog en el cual podemos ver los mensajes que haya enviado y si quiere enviar nuevos mensajes.
+Todo es muy modificable como:
+Hacer que los mensajes se clasifiquen en leidos y no leidos...
